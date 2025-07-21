@@ -4,10 +4,7 @@
 
 ### About
 
-KHand is a physical mail system for Spigot/Paper Minecraft servers that allows users to send letters in the form of books
-and receive them through couriers. Admins can use this to send letters to all players at once as a way of sending a
-message that people will be sure to see.
-
+KHand is a simple handle system for Spigot/Paper Minecraft servers that allows users to handle itens through the invetory, not needing to drop the item.
 ---
 
 ## Usage
