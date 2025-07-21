@@ -9,10 +9,6 @@ KHand is a simple handle system for Spigot/Paper Minecraft servers that allows u
 
 ## Usage
 
-`< >` - Mandatory arguments
-<br>
-`( )` - Optional arguments
-
 - `/handle` - Toggle the Item delivery mode.
 
 ---
