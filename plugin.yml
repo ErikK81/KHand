@@ -1,0 +1,12 @@
+name: E_R
+version: "1.0"
+main: me.k81.main.Main
+api-version: 1.20
+commands:
+  Handle:
+    description: Handle an item.
+permissions:
+  khand.handle:
+    description: Allows the user to use the handle command
+    default: op
+
